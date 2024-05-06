@@ -39,4 +39,11 @@ src="https://img.shields.io/github/followers/cyyonara?logo=github&style=for-the-
 <a href="https://github.com/cyyonara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyyonara&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <br />
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=idnw0c6xpmn7hntiypnv5rw6n&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=idnw0c6xpmn7hntiypnv5rw6n&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+
+<br />
+<br />
+
+
