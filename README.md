@@ -9,7 +9,7 @@
 - 🌱I’m currently learning Full-Stack Web Development, and I'm trying to expand my knowledge everyday to improve my skills.  
   
 
-- ⚡ Fun fact: I play guitar and love watching movies and series.  
+- ⚡Fun fact: I play guitar and love watching movies and series.  
   
 
 <br/>  
