@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full-Stack Web Developer
 ---------------------------------
 
-I'm Cyrel, a passionate 22-year-old web enthusiast hailing from San Jose del Monte, Bulacan. Currently pursuing a Bachelor's degree in Information Technology at Colegio de San Gabriel Arcangel, I'm deeply immersed in the world of web development.
+I'm Cyrel, a passionate web enthusiast hailing from San Jose del Monte, Bulacan. Currently pursuing a Bachelor's degree in Information Technology at Colegio de San Gabriel Arcangel, I'm deeply immersed in the world of web development.
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [My Portfolio](http://cyyonara-git-master-cyyonara.vercel.app/)
