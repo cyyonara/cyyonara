@@ -64,14 +64,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cyyonara/cyyonara/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <a href="https://open.spotify.com/user/idnw0c6xpmn7hntiypnv5rw6n">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=idnw0c6xpmn7hntiypnv5rw6n&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
