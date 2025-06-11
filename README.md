@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate web enthusiast hailing from San Jose del Monte, Bulacan. Currently pursuing a Bachelor's degree in Information Technology at Colegio de San Gabriel Arcangel, I'm deeply immersed in the world of web development.</p>
+<p align="left">A passionate web enthusiast from San Jose del Monte, Bulacan, currently working as a Software Engineer. I hold a Bachelor's degree in Information Technology from Colegio de San Gabriel Arcangel. Deeply immersed in the world of web development, I continuously strive to expand my skills and contribute to innovative digital solutions.</p>
 
 ###
 
