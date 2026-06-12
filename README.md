@@ -1,18 +1,10 @@
 <h1 align="left">Hey 👋 My name is Cyrel B. Villanueva</h1>
-
 ###
-
 <p align="left">A passionate web enthusiast from San Jose del Monte, Bulacan, currently working as a Software Engineer. I hold a Bachelor's degree in Information Technology from Colegio de San Gabriel Arcangel. Deeply immersed in the world of web development, I continuously strive to expand my skills and contribute to innovative digital solutions.</p>
-
 ###
-
-
 ###
-
 <h2 align="left">My skills</h2>
-
 ###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -30,7 +22,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -49,8 +45,13 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
+<!-- CodeIgniter & Inertia.js — not available on skillicons.dev, using shields.io badges instead -->
+<div align="left">
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" height="28" alt="codeigniter logo" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" height="28" alt="inertiajs logo" />
+</div>
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyyonara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyyonara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -58,5 +59,3 @@
   <img src="https://github-profile-trophy.vercel.app?username=cyyonara&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyyonara&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
