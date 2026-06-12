@@ -20,6 +20,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
@@ -74,9 +76,15 @@
 <h2 align="left">GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyyonara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyyonara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=cyyonara&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=cyyonara&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyyonara&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyyonara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=10&order=1" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyyonara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&order=2" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=cyyonara&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="160" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=cyyonara&theme=tokyonight&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="160" alt="trophy graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyyonara&radius=16&theme=tokyo-night&area=true&hide_border=true&order=5" height="280" alt="activity-graph graph" />
 </div>
