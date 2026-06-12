@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=socketio" height="40" alt="socketio logo" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="28" alt="socketio logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   <img width="12" />
