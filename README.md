@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=socketio" height="40" alt="socketio logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
